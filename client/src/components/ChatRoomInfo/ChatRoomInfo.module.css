@@ -1,0 +1,14 @@
+.Container {
+  display: flex;
+  width: 100vw;
+  background-color: blue;
+  height: 8vh;
+  justify-content: center;
+  align-items: center;
+}
+.ChatRoomInfo {
+  margin: 2%;
+  font-weight: 700;
+  color: #fff;
+  font-size: large;
+}

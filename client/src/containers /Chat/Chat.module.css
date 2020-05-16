@@ -1,0 +1,14 @@
+.Container {
+  height: 100vh;
+  width: 100vw;
+}
+.SubContainer {
+  display: flex;
+  height: 92vh;
+}
+.SubContainerMessages {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}

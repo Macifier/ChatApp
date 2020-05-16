@@ -1,0 +1,12 @@
+.Container {
+  display: flex;
+
+  width: 100%;
+  flex-basis: 8vh;
+}
+.MessageInput {
+  flex-basis: 90%;
+}
+.SendButton {
+  flex-basis: 10%;
+}
